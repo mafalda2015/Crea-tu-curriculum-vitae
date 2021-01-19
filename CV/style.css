@@ -1,4 +1,14 @@
 .container {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 10px; outline: black;
+    display: flex;
+    justify-content: space-evenly;
+}
 
+.informacion {
+    border: 20px; outline: blue;
+    display: flex;
+}
+
+.foto {
+    margin-left: 20px;
 }
